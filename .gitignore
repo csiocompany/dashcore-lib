@@ -10,3 +10,4 @@ coverage
 
 # ignore distribution files
 dist/
+nbproject/
